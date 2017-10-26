@@ -109,3 +109,7 @@ figcaption {
   height: 0;
   list-style: 0;
 }
+
+img, video, audio {
+  max-width: 100%;
+}
